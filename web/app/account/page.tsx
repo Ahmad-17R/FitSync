@@ -8,7 +8,7 @@ import { DeleteData } from '@/components/account/DeleteData';
 import styles from './page.module.css';
 
 export const metadata: Metadata = {
-  title: 'Account — ZenFlow AI',
+  title: 'Account — FitSync',
 };
 
 export default async function AccountPage() {

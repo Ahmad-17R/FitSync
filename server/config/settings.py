@@ -54,7 +54,7 @@ class Settings(BaseSettings):
     # Yoga hold timing.
     #
     # The debounce is counted in FRAMES, not seconds, so it has to be read
-    # against the client's frame rate. ZenFlow streams at 12fps, which makes the
+    # against the client's frame rate. FitSync streams at 12fps, which makes the
     # default about 0.8s of grace before a wobble resets a hold. A client
     # streaming slower needs a lower number or the grace window becomes
     # uncomfortably long.

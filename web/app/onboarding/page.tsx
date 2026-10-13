@@ -5,7 +5,7 @@ import { getUser } from '@/lib/supabase/server';
 import { Onboarding } from '@/components/onboarding/Onboarding';
 
 export const metadata: Metadata = {
-  title: 'Build your plan — ZenFlow AI',
+  title: 'Build your plan — FitSync',
   description: 'Four questions, then a practice plan built around your answers.',
 };
 

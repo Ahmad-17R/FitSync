@@ -28,11 +28,11 @@ export async function AppNav() {
 
   return (
     <header className={styles.nav}>
-      <Link href="/home" className={styles.brand} aria-label="ZenFlow AI, practice home">
+      <Link href="/home" className={styles.brand} aria-label="FitSync, practice home">
         <span className={styles.mark} aria-hidden="true">
           <span className={styles.markDot} />
         </span>
-        <span className={styles.wordmark}>ZenFlow AI</span>
+        <span className={styles.wordmark}>FitSync</span>
       </Link>
 
       <nav className={styles.links} aria-label="Practice">
@@ -41,6 +41,9 @@ export async function AppNav() {
         </Link>
         <Link href="/progress" className={styles.link}>
           Progress
+        </Link>
+        <Link href="/search" className={styles.link}>
+          Guides
         </Link>
         <Link href="/account" className={styles.link}>
           Account

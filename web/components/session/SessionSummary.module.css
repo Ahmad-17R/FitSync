@@ -106,6 +106,12 @@
   color: var(--color-neutral-600);
 }
 
+.fixGuide {
+  color: var(--color-accent-700);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
 .clean {
   margin: 12px 0 0;
   font-size: 14.5px;

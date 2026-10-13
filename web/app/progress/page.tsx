@@ -14,7 +14,7 @@ import { CorrectionTrend } from '@/components/progress/CorrectionTrend';
 import styles from './page.module.css';
 
 export const metadata: Metadata = {
-  title: 'Progress — ZenFlow AI',
+  title: 'Progress — FitSync',
   description: 'Whether your form is settling, session by session.',
 };
 

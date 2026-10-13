@@ -1,4 +1,4 @@
-# ZenFlow AI yoga API.
+# FitSync yoga API.
 #
 # Deliberately short. The upstream backend also pulls scipy (HMM + Kalman),
 # aiofiles and python-multipart (chunked video upload) and supabase — none of
@@ -12,6 +12,9 @@ websockets>=12.0
 
 # Geometry
 numpy>=1.26.0
+
+# Retrieval (ir/) — Porter2 stemmer, pure Python, no dependencies
+snowballstemmer>=2.2.0
 
 # Config
 pydantic>=2.5.0

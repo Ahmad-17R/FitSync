@@ -1,4 +1,4 @@
-# Deploying ZenFlow AI
+# Deploying FitSync
 
 Two halves of one repo: the Next.js app in `web/` goes to Vercel, the FastAPI
 yoga API in `server/` goes to Render.

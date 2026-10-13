@@ -87,7 +87,7 @@ export function useCamera(videoRef: React.RefObject<HTMLVideoElement | null>) {
         setError({
           status: 'denied',
           message:
-            'ZenFlow needs the camera to see your pose. Allow camera access from the icon in your browser’s address bar, then start the session again.',
+            'FitSync needs the camera to see your pose. Allow camera access from the icon in your browser’s address bar, then start the session again.',
           retryable: true,
         });
       } else if (e.name === 'NotFoundError' || e.name === 'OverconstrainedError') {
@@ -95,7 +95,7 @@ export function useCamera(videoRef: React.RefObject<HTMLVideoElement | null>) {
         setError({
           status: 'error',
           message:
-            'No camera found on this device. Connect one, or open ZenFlow on a phone or laptop with a built-in camera.',
+            'No camera found on this device. Connect one, or open FitSync on a phone or laptop with a built-in camera.',
           retryable: true,
         });
       } else if (e.name === 'NotReadableError') {

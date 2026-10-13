@@ -16,11 +16,11 @@ const LINKS = [
 export function Nav() {
   return (
     <header className={styles.nav}>
-      <Link href="/" className={styles.brand} aria-label="ZenFlow AI, home">
+      <Link href="/" className={styles.brand} aria-label="FitSync, home">
         <span className={styles.mark} aria-hidden="true">
           <span className={styles.markDot} />
         </span>
-        <span className={styles.wordmark}>ZenFlow AI</span>
+        <span className={styles.wordmark}>FitSync</span>
       </Link>
 
       <nav className={styles.links} aria-label="Sections">

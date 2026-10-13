@@ -6,7 +6,7 @@ import { SignInForm } from '@/components/auth/SignInForm';
 import styles from './page.module.css';
 
 export const metadata: Metadata = {
-  title: 'Sign in — ZenFlow AI',
+  title: 'Sign in — FitSync',
   description: 'Save your practice and watch your form improve over time.',
 };
 
@@ -30,7 +30,7 @@ export default async function SignInPage({ searchParams }: PageProps) {
           <span className={styles.mark} aria-hidden="true">
             <span className={styles.markDot} />
           </span>
-          ZenFlow AI
+          FitSync
         </Link>
 
         <h1 className={styles.title}>Keep your practice.</h1>

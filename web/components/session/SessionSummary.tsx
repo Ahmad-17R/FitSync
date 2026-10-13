@@ -160,7 +160,21 @@ export function SessionSummary({ summary, onFlowAgain, saveState }: SessionSumma
                     )}
                     <span className={styles.fixText}>
                       <span className={styles.fixCorrection}>{item.correction}</span>
-                      <span className={styles.fixPose}>{item.poseName}</span>
+                      <span className={styles.fixPose}>
+                        {item.poseName} ·{' '}
+                        {/* The correction itself is the query: retrieval finds
+                            the guide that explains it (server/ir). */}
+                        <Link
+                          href={`/search?${new URLSearchParams({
+                            q: `${item.poseName} ${item.correction}`,
+                            model: 'bm25f',
+                            from: 'coach',
+                          })}`}
+                          className={styles.fixGuide}
+                        >
+                          Read the guide
+                        </Link>
+                      </span>
                     </span>
                     <span className="tag tag-accent">{item.count}×</span>
                   </li>

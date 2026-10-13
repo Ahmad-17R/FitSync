@@ -53,7 +53,7 @@ export function SessionGate({
           <span className="tag tag-accent-2">Before we start</span>
 
           <h1 className={styles.title}>
-            {problem ? 'The camera didn’t start.' : 'Let ZenFlow see your pose.'}
+            {problem ? 'The camera didn’t start.' : 'Let FitSync see your pose.'}
           </h1>
 
           <p className={styles.body}>

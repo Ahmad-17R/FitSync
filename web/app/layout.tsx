@@ -23,12 +23,12 @@ const figtree = Figtree({
 });
 
 export const metadata: Metadata = {
-  title: 'ZenFlow AI — hold the pose, we’ll watch the rest',
+  title: 'FitSync — hold the pose, we’ll watch the rest',
   description:
     'Real-time yoga form feedback from the camera you already have. Eight poses, timed holds, and one calm spoken correction at a time. Pose detection runs on your device — the video never leaves it.',
-  applicationName: 'ZenFlow AI',
+  applicationName: 'FitSync',
   openGraph: {
-    title: 'ZenFlow AI',
+    title: 'FitSync',
     description:
       'Real-time yoga form feedback from the camera you already have. Eight poses, timed holds, one calm correction at a time.',
     type: 'website',

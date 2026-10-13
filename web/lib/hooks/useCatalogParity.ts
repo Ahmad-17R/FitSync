@@ -60,7 +60,7 @@ export function useCatalogParity(): void {
 
         if (problems.length) {
           console.warn(
-            '[ZenFlow] Pose catalog drift against the backend:\n  ' + problems.join('\n  ')
+            '[FitSync] Pose catalog drift against the backend:\n  ' + problems.join('\n  ')
           );
         }
       } catch {

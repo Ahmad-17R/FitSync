@@ -1,4 +1,4 @@
-# ZenFlow AI
+# FitSync
 
 Real-time yoga form feedback in the browser. Eight poses, timed holds, one
 spoken correction at a time.
@@ -8,6 +8,7 @@ coordinates per frame ever leave it — never the image, and nothing is recorded
 
 - **Landing** `/` — hero, scroll-driven walkthrough, pose library, FAQ
 - **Session** `/session` — camera, skeleton overlay, hold ring, voice coach
+- **Guides** `/search` — pose-guide retrieval: Boolean, BIM, BM25, BM25F, region search
 - **Preview** `/session?preview=1` — the full live UI against a scripted coach,
   no camera needed
 

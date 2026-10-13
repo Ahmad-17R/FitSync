@@ -19,7 +19,7 @@ import { HoldChart } from '@/components/progress/HoldChart';
 import styles from './page.module.css';
 
 export const metadata: Metadata = {
-  title: 'Practice — ZenFlow AI',
+  title: 'Practice — FitSync',
 };
 
 function formatHeld(seconds: number): string {

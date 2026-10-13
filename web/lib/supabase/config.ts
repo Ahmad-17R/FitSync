@@ -1,7 +1,7 @@
 /**
  * Whether accounts are configured at all.
  *
- * ZenFlow is guest-first: the entire live session works signed out, and the
+ * FitSync is guest-first: the entire live session works signed out, and the
  * landing page promises exactly that. So a deployment with no Supabase
  * credentials should be a fully working guest-only app, not a 500 — which is
  * what it was until this existed, because the middleware constructed a client

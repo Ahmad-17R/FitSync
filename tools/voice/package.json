@@ -1,5 +1,5 @@
 {
-  "name": "zenflow-voice-tools",
+  "name": "fitsync-voice-tools",
   "private": true,
   "type": "module",
   "description": "Dev-only. Renders the app's fixed spoken lines to audio with Kokoro-82M. Deliberately NOT part of web/package.json — onnxruntime is ~200MB and Vercel installs devDependencies during a build.",

@@ -17,7 +17,7 @@ const STEPS = [
     n: '01',
     meta: '~10 seconds',
     title: 'Prop your phone or laptop',
-    body: 'Stand back until your whole body fits the frame. ZenFlow draws the box it needs and tells you when every joint is visible.',
+    body: 'Stand back until your whole body fits the frame. FitSync draws the box it needs and tells you when every joint is visible.',
   },
   {
     n: '02',

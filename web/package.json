@@ -1,8 +1,8 @@
 {
-  "name": "zenflow-ai",
+  "name": "fitsync",
   "version": "1.0.0",
   "private": true,
-  "description": "ZenFlow AI — real-time yoga form feedback in the browser.",
+  "description": "FitSync — AI-powered real-time yoga instructor in the browser.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

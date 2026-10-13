@@ -1,0 +1,695 @@
+[
+  {
+    "id": 1,
+    "slug": "mountain",
+    "name": "Mountain Pose",
+    "sanskrit": "Tadasana",
+    "level": "beginner",
+    "category": "standing",
+    "trackable": true,
+    "body_parts": ["feet", "legs", "core", "spine", "shoulders"],
+    "overview": "The foundation of every standing pose. You stand tall and still with your weight spread evenly through both feet, learning what neutral alignment feels like before you add any shape on top of it.",
+    "steps": [
+      "Stand with your feet together or hip-width apart and spread your toes.",
+      "Press evenly through the heels and the balls of both feet.",
+      "Straighten your legs without locking the knees and lift your kneecaps gently.",
+      "Lengthen your spine and stack your shoulders over your hips.",
+      "Relax your shoulders away from your ears with your arms by your sides.",
+      "Breathe slowly and keep your gaze level."
+    ],
+    "benefits": "Improves posture and body awareness. Strengthens the thighs, knees and ankles. Teaches balanced weight distribution that every other standing pose builds on.",
+    "cautions": "If you feel dizzy or have low blood pressure, keep your feet hip-width apart and stand near a wall.",
+    "mistakes": [
+      {"mistake": "Knees are bent", "correction": "Straighten your legs and stand tall"},
+      {"mistake": "Leaning to one side", "correction": "Stack your shoulders over your hips and stand straight"},
+      {"mistake": "Shoulders are uneven", "correction": "Level your shoulders"}
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "tree",
+    "name": "Tree Pose",
+    "sanskrit": "Vrksasana",
+    "level": "beginner",
+    "category": "standing balance",
+    "trackable": true,
+    "body_parts": ["legs", "ankles", "hips", "core"],
+    "overview": "A one-legged standing balance. One foot roots into the floor like the trunk of a tree while the other rests on the standing leg, training focus and steadiness.",
+    "steps": [
+      "Begin in Mountain Pose and shift your weight onto one foot.",
+      "Lift the other foot and place the sole on your inner thigh or calf, never on the knee.",
+      "Press the foot and the standing leg into each other.",
+      "Keep the standing leg straight and strong.",
+      "Bring your palms together at the chest or reach the arms overhead.",
+      "Fix your gaze on one still point to help your balance."
+    ],
+    "benefits": "Builds balance and concentration. Strengthens the standing leg, ankle and core. Opens the hip of the lifted leg.",
+    "cautions": "Do not press the foot into the side of the knee joint. Stand near a wall if your balance is unsteady.",
+    "mistakes": [
+      {"mistake": "Both feet are on the ground", "correction": "Lift one foot and place the sole on your inner thigh or calf"},
+      {"mistake": "Standing leg is bent", "correction": "Straighten and root down through your standing leg"},
+      {"mistake": "Losing balance", "correction": "Engage your core and fix your gaze on one point"}
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "warrior_i",
+    "name": "Warrior I",
+    "sanskrit": "Virabhadrasana I",
+    "level": "beginner",
+    "category": "standing lunge",
+    "trackable": true,
+    "body_parts": ["legs", "knees", "hips", "arms", "shoulders"],
+    "overview": "A strong lunge with the hips facing forward and both arms reaching overhead. It builds leg strength while stretching the hip of the back leg.",
+    "steps": [
+      "Step one foot back into a long stance and turn the back foot slightly out.",
+      "Bend your front knee to about 90 degrees so it stacks over the front ankle.",
+      "Keep the back leg straight and press the outer edge of the back foot down.",
+      "Square your hips towards the front of the mat.",
+      "Reach both arms straight up alongside your ears.",
+      "Lift your chest and keep your torso upright."
+    ],
+    "benefits": "Strengthens the thighs, knees and ankles. Stretches the hip flexors and chest. Builds stamina and focus.",
+    "cautions": "Keep the front knee behind the toes if you have knee pain. Lower the arms to the hips if your shoulders are sore.",
+    "mistakes": [
+      {"mistake": "Front knee not bent correctly", "correction": "Bend your front knee to about 90 degrees, stacked over the ankle"},
+      {"mistake": "Back leg is bent", "correction": "Straighten and press through your back leg"},
+      {"mistake": "Torso leaning too far", "correction": "Lift your chest and keep your torso upright"},
+      {"mistake": "Arms not raised overhead", "correction": "Reach both arms straight up alongside your ears"}
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "warrior_ii",
+    "name": "Warrior II",
+    "sanskrit": "Virabhadrasana II",
+    "level": "beginner",
+    "category": "standing lunge",
+    "trackable": true,
+    "body_parts": ["legs", "knees", "hips", "arms", "shoulders"],
+    "overview": "A wide lunge with the hips open to the side and the arms extended parallel to the floor. It is the classic pose for building leg strength and stamina.",
+    "steps": [
+      "Take a wide stance and turn the front foot to point forward.",
+      "Bend your front knee to about 90 degrees, keeping the knee over the ankle.",
+      "Keep the back leg straight and strong.",
+      "Extend both arms parallel to the floor, reaching out wide.",
+      "Keep your torso upright between your legs.",
+      "Look out over the front fingertips."
+    ],
+    "benefits": "Strengthens the legs, knees and ankles. Opens the hips and chest. Builds endurance in the shoulders and arms.",
+    "cautions": "Do not let the front knee collapse inwards, which strains the knee. Shorten the stance if your hips feel tight.",
+    "mistakes": [
+      {"mistake": "Front knee not bent correctly", "correction": "Bend your front knee to about 90 degrees, stacked over the ankle"},
+      {"mistake": "Back leg is bent", "correction": "Straighten and press through your back leg"},
+      {"mistake": "Torso leaning too far", "correction": "Lift your chest and keep your torso upright"},
+      {"mistake": "Arms not extended out to the sides", "correction": "Extend both arms parallel to the floor, reaching out wide"}
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "chair",
+    "name": "Chair Pose",
+    "sanskrit": "Utkatasana",
+    "level": "beginner",
+    "category": "standing",
+    "trackable": true,
+    "body_parts": ["thighs", "knees", "glutes", "arms", "core"],
+    "overview": "You sit back as if into an invisible chair with the arms raised. Both knees bend and the thighs do the work, which makes this one of the most demanding standing strength poses.",
+    "steps": [
+      "Stand with your feet together or hip-width apart.",
+      "Bend your knees and sit your hips back as if into a chair.",
+      "Keep your knees behind your toes and your weight in your heels.",
+      "Reach your arms up alongside your ears.",
+      "Draw your belly in and lengthen your lower back."
+    ],
+    "benefits": "Strengthens the thighs, glutes, knees and ankles. Builds heat and stamina. Engages the core and the muscles of the upper back.",
+    "cautions": "Bend the knees less if you have knee pain. If the knees ache, rise up a little and keep the knees behind the toes.",
+    "mistakes": [
+      {"mistake": "Knees not bent enough", "correction": "Bend your knees and sit your hips back as if into a chair"},
+      {"mistake": "Arms not raised", "correction": "Reach your arms up alongside your ears"}
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "triangle",
+    "name": "Triangle Pose",
+    "sanskrit": "Trikonasana",
+    "level": "beginner",
+    "category": "standing",
+    "trackable": true,
+    "body_parts": ["legs", "hamstrings", "hips", "side body", "arms"],
+    "overview": "From a wide straight-legged stance you hinge sideways at the hip, one hand reaching down and the other up, so the arms form a single vertical line.",
+    "steps": [
+      "Step your feet wide apart and turn the front foot forward.",
+      "Straighten both legs in your wide stance.",
+      "Hinge sideways from your hip, reaching one hand down to the shin or a block.",
+      "Stack your top arm over the bottom, forming one straight line.",
+      "Keep both sides of your waist long and turn your chest open."
+    ],
+    "benefits": "Stretches the hamstrings, hips and the side of the body. Strengthens the legs. Improves balance and opens the chest.",
+    "cautions": "Use a block under the lower hand instead of collapsing the side body. Look down rather than up if your neck hurts.",
+    "mistakes": [
+      {"mistake": "Legs are bent", "correction": "Straighten both legs in your wide stance"},
+      {"mistake": "Not hinging sideways", "correction": "Hinge sideways from your hip, reaching one hand down"},
+      {"mistake": "Arms not in a vertical line", "correction": "Stack your top arm over the bottom, forming one straight line"}
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "downward_dog",
+    "name": "Downward Dog",
+    "sanskrit": "Adho Mukha Svanasana",
+    "level": "beginner",
+    "category": "inversion floor",
+    "trackable": true,
+    "body_parts": ["arms", "shoulders", "hamstrings", "calves", "spine"],
+    "overview": "The body forms an upside-down V with the hips as the highest point. It stretches the whole back of the body and strengthens the arms and shoulders.",
+    "steps": [
+      "Start on your hands and knees with your hands slightly ahead of your shoulders.",
+      "Tuck your toes and lift your knees off the floor.",
+      "Lift your hips up and back to make an upside-down V.",
+      "Press the floor away and straighten your arms.",
+      "Straighten your legs, sending your heels toward the floor.",
+      "Let your head hang between your arms."
+    ],
+    "benefits": "Stretches the hamstrings, calves and spine. Strengthens the arms and shoulders. Calms the mind and relieves fatigue.",
+    "cautions": "Bend the knees if your hamstrings are tight or your lower back rounds. Avoid it with wrist injuries or uncontrolled high blood pressure.",
+    "mistakes": [
+      {"mistake": "Hips not lifted", "correction": "Lift your hips up and back to make an upside-down V"},
+      {"mistake": "Arms are bent", "correction": "Press the floor away and straighten your arms"},
+      {"mistake": "Knees are bent", "correction": "Straighten your legs, sending your heels toward the floor"},
+      {"mistake": "Body angle is off", "correction": "Form a clear peak at the hips between your arms and legs"}
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "cobra",
+    "name": "Cobra Pose",
+    "sanskrit": "Bhujangasana",
+    "level": "beginner",
+    "category": "backbend floor",
+    "trackable": true,
+    "body_parts": ["spine", "lower back", "chest", "shoulders"],
+    "overview": "A gentle backbend lying on the belly. The chest lifts while the hips and thighs stay grounded, strengthening the lower back and opening the chest.",
+    "steps": [
+      "Lie on your belly with your legs extended and the tops of your feet on the floor.",
+      "Place your hands under your shoulders with the elbows close to your body.",
+      "Press through your hands and lift your chest off the floor.",
+      "Keep your hips and the tops of your thighs grounded.",
+      "Draw your shoulders back and away from your ears."
+    ],
+    "benefits": "Strengthens the lower back and spine. Gently stretches the chest, shoulders and abdomen. A gentle way to ease stiffness in the lower back.",
+    "cautions": "Lift only as high as is comfortable for your lower back. Avoid it during pregnancy or with a recent back injury.",
+    "mistakes": [
+      {"mistake": "Chest not lifted", "correction": "Press through your hands and lift your chest off the floor"},
+      {"mistake": "Hips lifting off the floor", "correction": "Keep your hips and the tops of your thighs grounded"}
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "childs_pose",
+    "name": "Child's Pose",
+    "sanskrit": "Balasana",
+    "level": "beginner",
+    "category": "resting floor",
+    "trackable": false,
+    "body_parts": ["lower back", "hips", "spine", "shoulders"],
+    "overview": "A gentle resting pose. You kneel and fold forward over your thighs, letting the lower back release and the breath slow down.",
+    "steps": [
+      "Kneel with your big toes together and your knees apart.",
+      "Sit your hips back towards your heels.",
+      "Fold forward and rest your forehead on the floor.",
+      "Stretch the arms forward or rest them beside your legs."
+    ],
+    "benefits": "Gently stretches the lower back, hips and thighs. Calms the nervous system. A safe rest between harder poses.",
+    "cautions": "Place a cushion under the hips or between the calves and thighs if your knees are uncomfortable.",
+    "mistakes": [
+      {"mistake": "Hips lifted high off the heels", "correction": "Widen your knees and let your hips sink back"},
+      {"mistake": "Shoulders hunched", "correction": "Let your arms and shoulders soften towards the floor"}
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "cat_cow",
+    "name": "Cat-Cow",
+    "sanskrit": "Marjaryasana Bitilasana",
+    "level": "beginner",
+    "category": "floor warm-up",
+    "trackable": false,
+    "body_parts": ["spine", "lower back", "neck", "core"],
+    "overview": "A flowing movement on hands and knees that alternates rounding and arching the spine with the breath. A gentle warm-up for a stiff back.",
+    "steps": [
+      "Start on hands and knees with your wrists under your shoulders.",
+      "Inhale, drop your belly and lift your chest and tailbone for Cow.",
+      "Exhale, round your spine towards the ceiling and tuck your chin for Cat.",
+      "Move slowly between the two with your breath."
+    ],
+    "benefits": "Mobilises the whole spine and gently stretches the lower back. Relieves back stiffness. Links movement and breath.",
+    "cautions": "Keep the movement small if you have neck pain. Pad the knees with a folded blanket.",
+    "mistakes": [
+      {"mistake": "Moving only the neck", "correction": "Initiate the movement from the tailbone and move the whole spine"}
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "bridge",
+    "name": "Bridge Pose",
+    "sanskrit": "Setu Bandha Sarvangasana",
+    "level": "beginner",
+    "category": "backbend floor",
+    "trackable": false,
+    "body_parts": ["glutes", "hamstrings", "lower back", "chest"],
+    "overview": "Lying on your back with the knees bent, you lift the hips to form a bridge from the shoulders to the knees.",
+    "steps": [
+      "Lie on your back with your knees bent and feet flat, hip-width apart.",
+      "Press your feet and arms into the floor.",
+      "Lift your hips towards the ceiling.",
+      "Keep the knees pointing forward over the ankles.",
+      "Lower down slowly one vertebra at a time."
+    ],
+    "benefits": "Strengthens the glutes, hamstrings and lower back. Opens the chest and the front of the hips.",
+    "cautions": "Avoid turning the head while the hips are lifted. Keep the lift low if you have a neck injury.",
+    "mistakes": [
+      {"mistake": "Knees falling outwards", "correction": "Keep the knees parallel and pointing forward"},
+      {"mistake": "Hips sagging", "correction": "Press through the heels and lift the hips higher"}
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "seated_forward_bend",
+    "name": "Seated Forward Bend",
+    "sanskrit": "Paschimottanasana",
+    "level": "beginner",
+    "category": "seated forward bend",
+    "trackable": false,
+    "body_parts": ["hamstrings", "lower back", "spine"],
+    "overview": "Sitting with the legs straight in front of you, you fold forward from the hips over the legs.",
+    "steps": [
+      "Sit with your legs extended straight in front of you.",
+      "Inhale and lengthen your spine.",
+      "Exhale and hinge forward from the hips.",
+      "Hold the shins, ankles or feet and keep the back long."
+    ],
+    "benefits": "Stretches the hamstrings and the whole back of the body. Calms the mind.",
+    "cautions": "Bend the knees if your hamstrings are tight or your lower back rounds strongly. Avoid forcing the stretch with a back injury.",
+    "mistakes": [
+      {"mistake": "Rounding the back to reach the feet", "correction": "Bend the knees and fold from the hips with a long spine"}
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "standing_forward_bend",
+    "name": "Standing Forward Bend",
+    "sanskrit": "Uttanasana",
+    "level": "beginner",
+    "category": "standing forward bend",
+    "trackable": false,
+    "body_parts": ["hamstrings", "calves", "spine", "neck"],
+    "overview": "From standing you fold forward from the hips and let the head hang, stretching the back of the legs.",
+    "steps": [
+      "Stand with your feet hip-width apart.",
+      "Hinge forward from the hips, keeping the spine long.",
+      "Let your head and arms hang towards the floor.",
+      "Bend your knees as much as you need."
+    ],
+    "benefits": "Stretches the hamstrings and calves. Releases tension in the neck and back.",
+    "cautions": "Rise up slowly to avoid dizziness. Bend the knees to protect the lower back.",
+    "mistakes": [
+      {"mistake": "Locking the knees", "correction": "Keep a soft bend in your knees"}
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "plank",
+    "name": "Plank Pose",
+    "sanskrit": "Phalakasana",
+    "level": "beginner",
+    "category": "arm support core",
+    "trackable": false,
+    "body_parts": ["core", "arms", "shoulders", "wrists"],
+    "overview": "The top of a push-up. The body forms one straight line from the head to the heels, held by the arms and the core.",
+    "steps": [
+      "Start on hands and knees with your hands under your shoulders.",
+      "Step your feet back so your body forms one straight line.",
+      "Press the floor away and keep your arms straight.",
+      "Draw the belly in and keep the hips level with the shoulders."
+    ],
+    "benefits": "Strengthens the core, arms, shoulders and wrists. Builds stamina for arm balances.",
+    "cautions": "Drop the knees to the floor if your lower back sags. Avoid it with wrist injuries.",
+    "mistakes": [
+      {"mistake": "Hips sagging", "correction": "Engage your core and lift the hips in line with your shoulders"},
+      {"mistake": "Hips too high", "correction": "Lower the hips until the body forms one straight line"}
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "side_plank",
+    "name": "Side Plank",
+    "sanskrit": "Vasisthasana",
+    "level": "intermediate",
+    "category": "arm balance core",
+    "trackable": false,
+    "body_parts": ["core", "obliques", "arms", "shoulders", "wrists"],
+    "overview": "A balance on one hand and the side of one foot, with the body turned sideways and the free arm reaching up.",
+    "steps": [
+      "Start in Plank Pose.",
+      "Shift onto the outer edge of one foot and one hand.",
+      "Stack your feet and lift your hips.",
+      "Reach the top arm towards the ceiling."
+    ],
+    "benefits": "Strengthens the core, the obliques, the arms and the wrists. Improves balance and focus.",
+    "cautions": "Lower the bottom knee to the floor for support. Avoid it with shoulder or wrist injuries.",
+    "mistakes": [
+      {"mistake": "Hips dropping", "correction": "Lift the hips so the body forms one straight line"}
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "extended_side_angle",
+    "name": "Extended Side Angle",
+    "sanskrit": "Utthita Parsvakonasana",
+    "level": "beginner",
+    "category": "standing lunge",
+    "trackable": false,
+    "body_parts": ["legs", "knees", "side body", "hips"],
+    "overview": "From Warrior II you lower the front forearm to the thigh and reach the top arm over the ear, making one long line from the back foot to the fingertips.",
+    "steps": [
+      "Begin in Warrior II.",
+      "Lower the front forearm to the front thigh or a hand to a block.",
+      "Reach the top arm over your ear.",
+      "Keep the front knee bent over the ankle and the back leg straight."
+    ],
+    "benefits": "Strengthens the legs and knees. Stretches the side body, groin and hips.",
+    "cautions": "Keep the front knee over the ankle and do not let it drift inwards if you have knee pain.",
+    "mistakes": [
+      {"mistake": "Collapsing onto the front thigh", "correction": "Press the forearm lightly and lift the chest"}
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "warrior_iii",
+    "name": "Warrior III",
+    "sanskrit": "Virabhadrasana III",
+    "level": "intermediate",
+    "category": "standing balance",
+    "trackable": false,
+    "body_parts": ["legs", "hamstrings", "core", "ankles"],
+    "overview": "A demanding one-legged balance. The torso and the lifted leg form a straight line parallel to the floor.",
+    "steps": [
+      "Stand on one leg with the standing knee soft.",
+      "Hinge forward from the hip and lift the other leg behind you.",
+      "Bring the torso and the lifted leg parallel to the floor.",
+      "Reach the arms forward or keep the hands on the hips.",
+      "Fix your gaze on one point on the floor."
+    ],
+    "benefits": "Builds balance, core strength and leg strength. Strengthens the ankles and the hamstrings of the standing leg.",
+    "cautions": "Use a wall or a chair for balance support. Keep a micro-bend in the standing knee.",
+    "mistakes": [
+      {"mistake": "Lifted hip opening up", "correction": "Point the toes of the lifted leg down and keep the hips level"},
+      {"mistake": "Losing balance", "correction": "Engage your core and fix your gaze on one point"}
+    ]
+  },
+  {
+    "id": 18,
+    "slug": "half_moon",
+    "name": "Half Moon Pose",
+    "sanskrit": "Ardha Chandrasana",
+    "level": "intermediate",
+    "category": "standing balance",
+    "trackable": false,
+    "body_parts": ["legs", "ankles", "hips", "core", "side body"],
+    "overview": "A standing balance on one leg with the body open to the side, one hand down and the other reaching up.",
+    "steps": [
+      "Begin in Triangle Pose.",
+      "Bend the front knee and place the lower hand on the floor or a block ahead of the foot.",
+      "Lift the back leg until it is parallel to the floor and straighten the standing leg.",
+      "Stack the hips and reach the top arm up."
+    ],
+    "benefits": "Builds balance and coordination. Strengthens the ankles, legs and core. Opens the hips and chest.",
+    "cautions": "Use a block under the lower hand. Practise near a wall if your balance is unsteady.",
+    "mistakes": [
+      {"mistake": "Losing balance", "correction": "Engage your core and look down at the floor until you feel steady"}
+    ]
+  },
+  {
+    "id": 19,
+    "slug": "eagle",
+    "name": "Eagle Pose",
+    "sanskrit": "Garudasana",
+    "level": "intermediate",
+    "category": "standing balance",
+    "trackable": false,
+    "body_parts": ["legs", "ankles", "shoulders", "upper back"],
+    "overview": "A wrapped standing balance. One leg wraps around the other while the arms wrap in front of the chest.",
+    "steps": [
+      "Bend your knees slightly and cross one thigh over the other.",
+      "Hook the top foot behind the standing calf if you can.",
+      "Cross the arms at the elbows and press the palms together.",
+      "Sit lower and lift the elbows to shoulder height."
+    ],
+    "benefits": "Improves balance and focus. Stretches the shoulders and upper back. Strengthens the legs and ankles.",
+    "cautions": "Skip the foot hook if your knees are sensitive. Rest the toes on the floor for balance.",
+    "mistakes": [
+      {"mistake": "Losing balance", "correction": "Sit lower and fix your gaze on one point"}
+    ]
+  },
+  {
+    "id": 20,
+    "slug": "low_lunge",
+    "name": "Low Lunge",
+    "sanskrit": "Anjaneyasana",
+    "level": "beginner",
+    "category": "lunge hip opener",
+    "trackable": false,
+    "body_parts": ["hips", "hip flexors", "thighs", "knees"],
+    "overview": "A lunge with the back knee resting on the floor. The hips sink forward to stretch the front of the back hip.",
+    "steps": [
+      "Step one foot forward between your hands and lower the back knee to the floor.",
+      "Keep the front knee over the front ankle.",
+      "Sink your hips forward and down.",
+      "Lift your chest and reach the arms up if comfortable."
+    ],
+    "benefits": "Stretches the hip flexors and thighs. Relieves tightness from long periods of sitting.",
+    "cautions": "Pad the back knee with a blanket. Keep the front knee behind the toes to protect the knee.",
+    "mistakes": [
+      {"mistake": "Front knee past the toes", "correction": "Step the front foot further forward so the knee stays over the ankle"}
+    ]
+  },
+  {
+    "id": 21,
+    "slug": "pigeon",
+    "name": "Pigeon Pose",
+    "sanskrit": "Eka Pada Rajakapotasana",
+    "level": "intermediate",
+    "category": "hip opener floor",
+    "trackable": false,
+    "body_parts": ["hips", "glutes", "hip flexors", "lower back"],
+    "overview": "A deep hip opener. The front shin lies across the mat and the back leg extends straight behind you.",
+    "steps": [
+      "From Downward Dog bring one knee forward behind the same wrist.",
+      "Angle the front shin across the mat.",
+      "Extend the back leg straight behind you.",
+      "Square the hips and fold forward over the front leg."
+    ],
+    "benefits": "Opens the hips and glutes. Stretches the hip flexors. Can relieve tightness that pulls on the lower back.",
+    "cautions": "Place a block under the hip of the front leg. Avoid it if you feel any pain in the front knee.",
+    "mistakes": [
+      {"mistake": "Hips tilting to one side", "correction": "Support the low hip with a block so the hips stay level"}
+    ]
+  },
+  {
+    "id": 22,
+    "slug": "boat",
+    "name": "Boat Pose",
+    "sanskrit": "Navasana",
+    "level": "intermediate",
+    "category": "seated core",
+    "trackable": false,
+    "body_parts": ["core", "hip flexors", "spine"],
+    "overview": "A seated balance on the sit bones with the legs lifted and the chest open, making a V shape.",
+    "steps": [
+      "Sit with your knees bent and feet on the floor.",
+      "Lean back slightly and lift the feet.",
+      "Bring the shins parallel to the floor or straighten the legs.",
+      "Reach the arms forward and keep the chest lifted."
+    ],
+    "benefits": "Strengthens the core and the hip flexors. Improves balance and posture.",
+    "cautions": "Keep the knees bent if your lower back strains. Avoid it during pregnancy.",
+    "mistakes": [
+      {"mistake": "Rounding the back", "correction": "Lift your chest and lengthen the spine before raising the legs"}
+    ]
+  },
+  {
+    "id": 23,
+    "slug": "sphinx",
+    "name": "Sphinx Pose",
+    "sanskrit": "Salamba Bhujangasana",
+    "level": "beginner",
+    "category": "backbend floor",
+    "trackable": false,
+    "body_parts": ["lower back", "spine", "chest"],
+    "overview": "A gentler cousin of Cobra. You lie on your belly propped on the forearms, letting the lower back curve softly.",
+    "steps": [
+      "Lie on your belly with the legs extended.",
+      "Place the elbows under the shoulders and the forearms on the floor.",
+      "Lift the chest and lengthen through the crown of the head.",
+      "Keep the hips and legs heavy on the floor."
+    ],
+    "benefits": "A gentle stretch for the lower back and chest. Strengthens the spine. Suits beginners with a stiff lower back.",
+    "cautions": "Move the elbows forward to soften the backbend if the lower back feels pinched.",
+    "mistakes": [
+      {"mistake": "Shoulders hunched up", "correction": "Draw your shoulders away from your ears"}
+    ]
+  },
+  {
+    "id": 24,
+    "slug": "corpse",
+    "name": "Corpse Pose",
+    "sanskrit": "Savasana",
+    "level": "beginner",
+    "category": "resting relaxation",
+    "trackable": false,
+    "body_parts": ["whole body"],
+    "overview": "The final relaxation. You lie flat on your back and let the whole body rest completely still.",
+    "steps": [
+      "Lie on your back with the legs extended and the arms by your sides.",
+      "Let the feet fall open and turn the palms up.",
+      "Close your eyes and breathe naturally.",
+      "Rest for several minutes."
+    ],
+    "benefits": "Deep relaxation. Reduces stress and calms the mind. Lets the body absorb the practice.",
+    "cautions": "Place a cushion under the knees to ease the lower back.",
+    "mistakes": [
+      {"mistake": "Fidgeting", "correction": "Let the body become still and heavy"}
+    ]
+  },
+  {
+    "id": 25,
+    "slug": "supine_twist",
+    "name": "Supine Spinal Twist",
+    "sanskrit": "Supta Matsyendrasana",
+    "level": "beginner",
+    "category": "floor twist",
+    "trackable": false,
+    "body_parts": ["spine", "lower back", "hips", "chest"],
+    "overview": "A gentle reclined twist. Lying on your back, you let the bent knees fall to one side while the shoulders stay on the floor.",
+    "steps": [
+      "Lie on your back and hug your knees towards your chest.",
+      "Stretch your arms out wide.",
+      "Let the knees fall gently to one side.",
+      "Turn your head the other way if comfortable."
+    ],
+    "benefits": "Gently releases the lower back and spine. Stretches the chest and the outer hips. Calming before rest.",
+    "cautions": "Keep the twist gentle if you have a disc injury in the lower back.",
+    "mistakes": [
+      {"mistake": "Shoulder lifting off the floor", "correction": "Keep both shoulders grounded and let the knees stay higher"}
+    ]
+  },
+  {
+    "id": 26,
+    "slug": "bound_angle",
+    "name": "Bound Angle Pose",
+    "sanskrit": "Baddha Konasana",
+    "level": "beginner",
+    "category": "seated hip opener",
+    "trackable": false,
+    "body_parts": ["hips", "groin", "knees"],
+    "overview": "A seated pose with the soles of the feet together and the knees falling open like butterfly wings.",
+    "steps": [
+      "Sit and bring the soles of your feet together.",
+      "Let the knees fall open to the sides.",
+      "Hold the feet and sit up tall."
+    ],
+    "benefits": "Opens the hips and groin.",
+    "cautions": "Support the knees with blocks if they are far from the floor.",
+    "mistakes": [
+      {"mistake": "Pressing the knees down", "correction": "Let the knees relax rather than forcing them"}
+    ]
+  },
+  {
+    "id": 27,
+    "slug": "camel",
+    "name": "Camel Pose",
+    "sanskrit": "Ustrasana",
+    "level": "intermediate",
+    "category": "backbend kneeling",
+    "trackable": false,
+    "body_parts": ["spine", "chest", "hip flexors", "shoulders"],
+    "overview": "A kneeling backbend. The hips press forward and the chest lifts as the hands reach back towards the heels.",
+    "steps": [
+      "Kneel with the knees hip-width apart.",
+      "Place your hands on your lower back.",
+      "Press the hips forward and lift the chest.",
+      "Reach the hands back to the heels if comfortable."
+    ],
+    "benefits": "Opens the chest and the front of the body. Strengthens the back.",
+    "cautions": "Keep the hands on the lower back if the neck or lower back feels strained. Avoid it with a back injury.",
+    "mistakes": [
+      {"mistake": "Dropping the head back", "correction": "Lift your chest and keep the neck long"}
+    ]
+  },
+  {
+    "id": 28,
+    "slug": "upward_salute",
+    "name": "Upward Salute",
+    "sanskrit": "Urdhva Hastasana",
+    "level": "beginner",
+    "category": "standing",
+    "trackable": false,
+    "body_parts": ["arms", "shoulders", "side body"],
+    "overview": "Mountain Pose with both arms raised overhead.",
+    "steps": [
+      "Stand in Mountain Pose.",
+      "Reach both arms overhead alongside your ears.",
+      "Lengthen through the fingertips."
+    ],
+    "benefits": "Stretches the arms, shoulders and side body.",
+    "cautions": "Keep the arms wider if your shoulders are tight.",
+    "mistakes": [
+      {"mistake": "Arms not raised overhead", "correction": "Reach both arms straight up alongside your ears"}
+    ]
+  },
+  {
+    "id": 29,
+    "slug": "wide_forward_bend",
+    "name": "Wide-Legged Forward Bend",
+    "sanskrit": "Prasarita Padottanasana",
+    "level": "beginner",
+    "category": "standing forward bend",
+    "trackable": false,
+    "body_parts": ["hamstrings", "inner thighs", "spine"],
+    "overview": "With the feet wide apart you fold forward from the hips and bring the hands to the floor.",
+    "steps": [
+      "Step your feet wide apart with the toes pointing forward.",
+      "Hinge forward from the hips with a long spine.",
+      "Place the hands on the floor under the shoulders.",
+      "Let the head hang."
+    ],
+    "benefits": "Stretches the hamstrings and inner thighs. Lengthens the spine.",
+    "cautions": "Bend the knees if the stretch strains the lower back. Rise up slowly.",
+    "mistakes": [
+      {"mistake": "Rounding the back", "correction": "Fold from the hips and keep the spine long"}
+    ]
+  },
+  {
+    "id": 30,
+    "slug": "easy_pose",
+    "name": "Easy Pose",
+    "sanskrit": "Sukhasana",
+    "level": "beginner",
+    "category": "seated",
+    "trackable": false,
+    "body_parts": ["hips", "spine"],
+    "overview": "A simple cross-legged seat for breathing and meditation.",
+    "steps": [
+      "Sit cross-legged on the floor or a cushion.",
+      "Lengthen the spine and relax the shoulders.",
+      "Rest the hands on the knees."
+    ],
+    "benefits": "Calms the mind. Gently opens the hips.",
+    "cautions": "Sit on a cushion if the knees are higher than the hips.",
+    "mistakes": [
+      {"mistake": "Slouching", "correction": "Sit on a cushion and lengthen the spine"}
+    ]
+  }
+]

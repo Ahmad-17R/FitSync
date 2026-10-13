@@ -7,7 +7,7 @@ import { createClient } from '@/lib/supabase/server';
 import { isSupabaseConfigured } from '@/lib/supabase/config';
 
 export const metadata: Metadata = {
-  title: 'Live session — ZenFlow AI',
+  title: 'Live session — FitSync',
   description:
     'Hold a pose and get spoken corrections in real time. Pose detection runs on your device.',
 };

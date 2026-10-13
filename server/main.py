@@ -1,4 +1,4 @@
-"""ZenFlow AI — yoga form-check API.
+"""FitSync — yoga form-check API.
 
 A single WebSocket answering one question per frame: is the body in the
 selected pose right now, how long has it been held, and what should be fixed.
@@ -19,6 +19,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from config.settings import settings
 from api.yoga_routes import router as yoga_router
+from api.search_routes import router as search_router
 
 
 # Detection logging.
@@ -36,7 +37,7 @@ _detect_logger.propagate = False
 
 
 app = FastAPI(
-    title="ZenFlow AI — Yoga Form Check API",
+    title="FitSync — Yoga Form Check API",
     description=(
         "Real-time yoga pose detection and hold timing from MediaPipe landmarks."
     ),
@@ -57,19 +58,21 @@ app.add_middleware(
 )
 
 app.include_router(yoga_router, prefix="/api")
+app.include_router(search_router, prefix="/api")
 
 
 @app.get("/")
 async def root():
     """Service description."""
     return {
-        "name": "ZenFlow AI — Yoga Form Check API",
+        "name": "FitSync — Yoga Form Check API",
         "version": "1.0.0",
         "docs": "/docs",
         "websocket": "/api/ws/yoga/{client_id}",
         "catalog": "/api/yoga/poses",
         "health": "/api/yoga/health",
         "reset": "/api/reset/yoga/{client_id}",
+        "search": "/api/search?q=...&model=bm25f",
     }
 
 

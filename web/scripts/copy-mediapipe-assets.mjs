@@ -81,6 +81,6 @@ async function fetchModel() {
   }
 }
 
-console.log('zenflow: vendoring MediaPipe assets');
+console.log('fitsync: vendoring MediaPipe assets');
 await copyWasm();
 await fetchModel();

@@ -1,0 +1,24 @@
+.page {
+  padding-bottom: 90px;
+}
+
+.title {
+  font-size: 42px;
+  line-height: 1.04;
+  margin: 0 0 12px;
+}
+
+.lede {
+  margin: 0 0 26px;
+  font-size: 16.5px;
+  line-height: 1.6;
+  color: var(--color-neutral-700);
+  max-width: 56ch;
+  text-wrap: pretty;
+}
+
+@media (max-width: 640px) {
+  .title {
+    font-size: 34px;
+  }
+}

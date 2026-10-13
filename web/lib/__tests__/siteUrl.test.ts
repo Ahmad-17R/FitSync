@@ -56,28 +56,28 @@ describe('siteOrigin', () => {
   it('lets an explicit override win', () => {
     process.env.VERCEL_ENV = 'production';
     process.env.VERCEL_PROJECT_PRODUCTION_URL = 'web-kappa-liard.vercel.app';
-    process.env.NEXT_PUBLIC_SITE_URL = 'https://zenflow.app';
-    expect(siteOrigin()).toBe('https://zenflow.app');
+    process.env.NEXT_PUBLIC_SITE_URL = 'https://fitsync.app';
+    expect(siteOrigin()).toBe('https://fitsync.app');
   });
 
   it('tolerates a trailing slash on the override', () => {
-    process.env.NEXT_PUBLIC_SITE_URL = 'https://zenflow.app/';
-    expect(siteOrigin()).toBe('https://zenflow.app');
+    process.env.NEXT_PUBLIC_SITE_URL = 'https://fitsync.app/';
+    expect(siteOrigin()).toBe('https://fitsync.app');
   });
 });
 
 describe('authCallbackUrl', () => {
   it('always points at the callback route', () => {
-    process.env.NEXT_PUBLIC_SITE_URL = 'https://zenflow.app';
+    process.env.NEXT_PUBLIC_SITE_URL = 'https://fitsync.app';
     expect(authCallbackUrl('/home')).toBe(
-      'https://zenflow.app/auth/callback?next=%2Fhome'
+      'https://fitsync.app/auth/callback?next=%2Fhome'
     );
   });
 
   it('encodes the destination', () => {
-    process.env.NEXT_PUBLIC_SITE_URL = 'https://zenflow.app';
+    process.env.NEXT_PUBLIC_SITE_URL = 'https://fitsync.app';
     expect(authCallbackUrl('/session?pose=tree&sheet=1')).toBe(
-      'https://zenflow.app/auth/callback?next=%2Fsession%3Fpose%3Dtree%26sheet%3D1'
+      'https://fitsync.app/auth/callback?next=%2Fsession%3Fpose%3Dtree%26sheet%3D1'
     );
   });
 

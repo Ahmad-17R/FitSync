@@ -27,7 +27,7 @@ export function Hero() {
         </h1>
 
         <p className={styles.lede}>
-          ZenFlow AI reads your body through the camera you already have, times every
+          FitSync reads your body through the camera you already have, times every
           hold, and speaks one calm correction at a time — so you can keep your eyes
           closed and stay in the breath.
         </p>

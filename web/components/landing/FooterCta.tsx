@@ -21,10 +21,10 @@ export function FooterCta() {
 
       <div className={styles.colophon}>
         <span>
-          ZenFlow AI — pose feedback for people who’d rather not watch a screen.
+          FitSync — pose feedback for people who’d rather not watch a screen.
         </span>
         <span>
-          Pose detection runs on-device · MediaPipe + ZenFlow form engine
+          Pose detection runs on-device · MediaPipe + FitSync form engine
         </span>
       </div>
     </footer>

@@ -9,7 +9,7 @@ import { isSupabaseConfigured } from '@/lib/supabase/config';
  * write them, so without this the token would expire and never renew, and a
  * signed-in user would silently become signed-out on their next navigation.
  *
- * This deliberately does NOT gate any route. ZenFlow is guest-first: the whole
+ * This deliberately does NOT gate any route. FitSync is guest-first: the whole
  * live session works signed out, and the landing page promises exactly that
  * ("no account needed for your first flow"). Pages that need a user check for
  * one themselves and offer sign-in; nothing redirects at the edge.

@@ -82,7 +82,7 @@ Do it pose by pose with the existing synthetic fixtures extended to carry `z`.
 Published latencies put lite around 35ms and full around 55ms per frame on a
 mid CPU.
 
-ZenFlow runs at **12fps on a stationary body** — an 83ms budget per frame. The
+FitSync runs at **12fps on a stationary body** — an 83ms budget per frame. The
 headroom is there, and limb-landmark stability is exactly what the lite model
 is worst at and exactly what this app depends on.
 
@@ -104,7 +104,7 @@ hold — and relaxes during fast motion so transitions do not lag.
 There is also a ready-made alternative already written and tested in this
 project's parent repo: `form-checking-backend/backend/pipeline/kalman.py`, a
 33-landmark constant-velocity tracker that scales measurement noise by
-visibility. ZenFlow's slim server dropped it along with the rest of the
+visibility. FitSync's slim server dropped it along with the rest of the
 exercise pipeline.
 
 Prefer One Euro **client-side**: it filters before the data crosses the wire,
@@ -179,7 +179,7 @@ which is precisely the failure being fixed.
 
 **The risk to name up front.** Yoga-82 is web-scraped photographs: expert
 practitioners, good lighting, deliberate and often artistic camera angles.
-ZenFlow's input is a webcam in a bedroom, pointed at a beginner. That is a real
+FitSync's input is a webcam in a bedroom, pointed at a beginner. That is a real
 domain gap, and a model reporting 96% on Yoga-82's test split can still be
 mediocre on the actual input.
 
